@@ -1,5 +1,4 @@
-
-#University Management System with Online Quiz & E-Library
+# University Management System with Online Quiz & E-Library#
 Description
 This project is a comprehensive University Management System designed to streamline various administrative tasks within a college or educational institution. In addition to core management functionalities, it includes an integrated online test-taking platform, a digital e-library to enhance the learning experience for students and faculty members & fees & salary management for administrator & attendance section for both faculty & student.
 
