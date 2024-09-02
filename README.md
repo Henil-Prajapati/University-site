@@ -1,80 +1,65 @@
-# University Management System with Online Quiz & E-Library
-# Description
-This project is a comprehensive University Management System designed to streamline various administrative tasks within a college or educational institution. In addition to core management functionalities, it includes an integrated online test-taking platform, a digital e-library to enhance the learning experience for students and faculty members & fees & salary management for administrator & attendance section for both faculty & student.
+# DUhacks-3.0
+<h1>University Management System with Online Quiz & E-Library</h1>
+<h2>Description</h2>
+<p>This project is a comprehensive University Management System designed to streamline various administrative tasks within a college or educational institution. In addition to core management functionalities, it includes an integrated online test-taking platform, a digital e-library to enhance the learning experience for students and faculty members & fees & salary management for administrator & attendance section for both faculty & student.</p>
+<h2>Features</h2>
+<hr>
+<h3>College Management System</h3>
+<ul>
+    <li><b>Student Management:</b> Manage student records, including admission details, personal information like marks, attendance, online-quiz, fee payment academic history, and many more.</li>
+    <li><b>Faculty Management:</b> Keep track of faculty members, their teaching assignments, qualifications, and schedules.</li>
+    <li><b>Course Management:</b> Define and manage courses offered by the college, including course materials, syllabi, and schedules.</li>
+    <li><b>Attendance Management:</b> Record and monitor student attendance for various classes and sessions.</li>
+    <li><b>Examination Management:</b> Schedule exams, manage exam timetables, and record grades and results.</li>
+    <li><b>Fees & Salary Management:</b> Handle financial aspects such as fee collection, expense tracking, and total salary report.</li>
+    <li><b>result management</b> Allows to manage student's marks of each sem & calculate total CGPA.</li>
+</ul>
+<hr>
+<h3>Online Test Taking Platform</h3>
+<ul>
+    <li><b>Test Creation:</b> Create and manage online tests with various question types including multiple choice, true/false, and short answer questions.</li>
+    <li><b>Test Scheduling:</b> Schedule tests for specific courses or classes and set time limits for completion.</li>
+    <li><b>Student Performance Tracking:</b> Track student performance in online tests, view results, and generate performance reports.</li>
+    <li><b>Question Bank:</b> Maintain a repository of questions categorized by subject or topic for easy test creation.</li>
 
-# Features
-College Management System
-Student Management: Manage student records, including admission details, personal information like marks, attendance, online-quiz, fee payment academic history, and many more.
-Faculty Management: Keep track of faculty members, their teaching assignments, qualifications, and schedules.
-Course Management: Define and manage courses offered by the college, including course materials, syllabi, and schedules.
-Attendance Management: Record and monitor student attendance for various classes and sessions.
-Examination Management: Schedule exams, manage exam timetables, and record grades and results.
-Fees & Salary Management: Handle financial aspects such as fee collection, expense tracking, and total salary report.
-result management Allows to manage student's marks of each sem & calculate total CGPA.
-Online Test Taking Platform
-Test Creation: Create and manage online tests with various question types including multiple choice, true/false, and short answer questions.
-Test Scheduling: Schedule tests for specific courses or classes and set time limits for completion.
-Student Performance Tracking: Track student performance in online tests, view results, and generate performance reports.
-Question Bank: Maintain a repository of questions categorized by subject or topic for easy test creation.
-E-Library
-Digital Book Repository: Provide access to a wide range of digital books and educational materials.
-Search and Browse: Allow users to search for books by title, author, subject, or keyword and browse through available categories.
-Reading and Downloading: Enable users to read books online and download them for offline access.
-Books for Each sem & Course allows every user to access their preferred reference book which is suggested in syllabus can be accessed for each sem.
-Administator mangement
-Manage Accounts Manage all the accounts of Student & Faculty & provide access to each one.
-Check Attendance: Enable admin to check attendance of user & faculty & also filter them by class/course.
-Manage Salary Allow to add,calculate & manage salary & allowance of each & every faculty members in university.
-Assign Courses: Enables admin to assign single/multiple subjects to any faculty.
-Payment Confirmation: allows admin to send Payment Confirmation or request for their fees.
-Manage Timetable:allows to manage all the classes & their schedules for every week
-Display result: Displays all the student information for particular class/course & check pass & fail status.
-Technologies Used
-Frontend: HTML, CSS, Bootstrap Backend: PHP,MySQL
-# Here's a step-by-step guide on how to set up and run your project using XAMPP:
+</ul>
+<hr>
+<h3>E-Library</h3>
+<ul>
+    <li><b>Digital Book Repository:</b> Provide access to a wide range of digital books and educational materials.</li>
+    <li><b>Search and Browse:</b> Allow users to search for books by title, author, subject, or keyword and browse through available categories.</li>
+    <li><b>Reading and Downloading:</b> Enable users to read books online and download them for offline access.</li>
+    <li><b>Books for Each sem & Course</b> allows every user to access their preferred reference book which is suggested in syllabus can be accessed for each sem.</li>
 
-Step 1: Install XAMPP
-Download XAMPP:
+</ul>
 
-Go to the XAMPP website and download the latest version of XAMPP for your operating system (Windows, macOS, Linux).
-Install XAMPP:
+<hr>
+<h3>Administator mangement</h3>
+<ul>
+    <li><b>Manage Accounts</b> Manage all the accounts of Student & Faculty & provide access to each one.</li>
+    <li><b>Check Attendance:</b> Enable admin to check attendance of user & faculty & also filter them by class/course.</li>
+    <li><b>Manage Salary</b> Allow to add,calculate & manage salary & allowance of each & every faculty members in university.</li>
+    <li><b>Assign Courses:</b> Enables admin to assign single/multiple subjects to any faculty.</li>
+    <li><b>Payment Confirmation:</b> allows admin to send Payment Confirmation or request for their fees.</li>
+    <li><b>Manage Timetable:</b>allows to manage all the classes & their schedules for every week </li>
+    <li><b>Display result:</b> Displays all the student information for particular class/course & check pass & fail status.</li>
+</ul>
+<h3>Technologies Used</h3>
+Frontend: HTML, CSS, Bootstrap
+Backend: PHP,MySQL
+<hr>
 
-Run the installer you just downloaded.
-Follow the installation steps, and choose the components you want to install (by default, Apache, MySQL, PHP, and phpMyAdmin are selected).
-Complete the installation.
-Step 2: Start Apache and MySQL Server
-Open XAMPP Control Panel:
 
-After installation, launch the XAMPP Control Panel.
-You’ll see a list of services. Look for Apache and MySQL.
-Start Apache and MySQL:
+<h3>To access website follow this steps:</h3>
+1.install xampp<br>
+2.start the mysql & apache server<br>
+3.import the .sql file which is given in database folder<br>
+4.then load index.php & enjoy.....!<br>
 
-Click on the "Start" button next to Apache.
-Click on the "Start" button next to MySQL.
-Make sure both services are running (green indicators).
-Step 3: Import the SQL File
-Open phpMyAdmin:
+<hr>
+<h3>Contributors:</h3>
+<li>Namra Vora</li>
+<li>Himanshi Thakkar</li>
+<li>Samarth solanki</li>
+<li>Hrutu Bhatt</li>
 
-Open your web browser and go to http://localhost/phpmyadmin.
-This will take you to the phpMyAdmin interface.
-Create a New Database:
-
-Click on the "Databases" tab at the top.
-Enter a name for your database (e.g., my_database) and click "Create."
-Import the .sql File:
-
-After creating the database, select the newly created database from the left sidebar.
-Click on the "Import" tab.
-Click on "Choose File" and select the .sql file from the database folder of your project.
-Click "Go" to import the database. You should see a success message once the import is complete.
-Step 4: Load index.php
-Move Your Project Files:
-
-Copy your project files (including the index.php file and other project folders) into the htdocs folder inside your XAMPP installation directory (usually located at C:\xampp\htdocs on Windows or /Applications/XAMPP/htdocs on macOS).
-Access the Project in Your Browser:
-
-Open your web browser and type http://localhost/your_project_folder_name.
-This will load the index.php file, and your project should be up and running.
-Step 5: Enjoy!
-Explore the functionality of your project as per the instructions. Ensure everything works as expected, and make any necessary adjustments.
-Let me know if you need help with any specific part of the process!
