@@ -1,0 +1,22 @@
+.card-container {
+    display: flex;
+    flex-wrap: wrap; /* Allow cards to wrap to the next line */
+    justify-content: center; /* Center cards horizontally */
+}
+
+.card {
+    width: 18rem;
+    margin: 10px; /* Add some margin around each card */
+}
+h1{
+    color: rgb(3, 3, 83);
+    align-items: center;
+    text-align: center;
+    font-size: 50px;
+}
+.books{
+    
+    display: flex;
+    flex-wrap: wrap; /* Allow cards to wrap to the next line */
+    justify-content: center;
+}
