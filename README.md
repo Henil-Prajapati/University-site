@@ -1,5 +1,37 @@
-# University-site
 
+#University Management System with Online Quiz & E-Library
+Description
+This project is a comprehensive University Management System designed to streamline various administrative tasks within a college or educational institution. In addition to core management functionalities, it includes an integrated online test-taking platform, a digital e-library to enhance the learning experience for students and faculty members & fees & salary management for administrator & attendance section for both faculty & student.
+
+Features
+College Management System
+Student Management: Manage student records, including admission details, personal information like marks, attendance, online-quiz, fee payment academic history, and many more.
+Faculty Management: Keep track of faculty members, their teaching assignments, qualifications, and schedules.
+Course Management: Define and manage courses offered by the college, including course materials, syllabi, and schedules.
+Attendance Management: Record and monitor student attendance for various classes and sessions.
+Examination Management: Schedule exams, manage exam timetables, and record grades and results.
+Fees & Salary Management: Handle financial aspects such as fee collection, expense tracking, and total salary report.
+result management Allows to manage student's marks of each sem & calculate total CGPA.
+Online Test Taking Platform
+Test Creation: Create and manage online tests with various question types including multiple choice, true/false, and short answer questions.
+Test Scheduling: Schedule tests for specific courses or classes and set time limits for completion.
+Student Performance Tracking: Track student performance in online tests, view results, and generate performance reports.
+Question Bank: Maintain a repository of questions categorized by subject or topic for easy test creation.
+E-Library
+Digital Book Repository: Provide access to a wide range of digital books and educational materials.
+Search and Browse: Allow users to search for books by title, author, subject, or keyword and browse through available categories.
+Reading and Downloading: Enable users to read books online and download them for offline access.
+Books for Each sem & Course allows every user to access their preferred reference book which is suggested in syllabus can be accessed for each sem.
+Administator mangement
+Manage Accounts Manage all the accounts of Student & Faculty & provide access to each one.
+Check Attendance: Enable admin to check attendance of user & faculty & also filter them by class/course.
+Manage Salary Allow to add,calculate & manage salary & allowance of each & every faculty members in university.
+Assign Courses: Enables admin to assign single/multiple subjects to any faculty.
+Payment Confirmation: allows admin to send Payment Confirmation or request for their fees.
+Manage Timetable:allows to manage all the classes & their schedules for every week
+Display result: Displays all the student information for particular class/course & check pass & fail status.
+Technologies Used
+Frontend: HTML, CSS, Bootstrap Backend: PHP,MySQL
 Here's a step-by-step guide on how to set up and run your project using XAMPP:
 
 Step 1: Install XAMPP
